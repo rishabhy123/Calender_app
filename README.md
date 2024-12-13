@@ -1,8 +1,13 @@
 # React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features:-
+1- Transition between months and years.
+2- Add event on any date.
+3- You can categorize event also work or personal event.
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Intructions to run on local machine:-
+1- open command promt or vs code terminal in a directory.
+2- copy the repo-url
+3- use command git clone and then paste the copied repo rel. For example : git clone <url>
+4- navigate to the root directory after cloning.
+5 run npm or yarn install to install the required dependencies.
